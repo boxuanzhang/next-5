@@ -1,6 +1,6 @@
 # next-5
 
-> For Ladbrokes inteview demo
+> For inteview demo
 
 ## Build Setup
 
